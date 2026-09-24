@@ -1,0 +1,26 @@
+Student Management System
+
+A console-based student management system developed using Python.
+
+Features
+Add student records
+Display student records
+Search students
+Delete student records
+Calculate total marks
+Calculate percentage
+Calculate grade automatically
+Technologies Used
+Python
+How to Run
+Download or clone this repository.
+Open the project folder in VS Code.
+Open the Python file.
+Run the program using Python.
+
+Example:
+
+python student.py
+Project Purpose
+
+This project was developed to practice Python programming, functions, conditional statements, loops, data structures, and basic record management.
